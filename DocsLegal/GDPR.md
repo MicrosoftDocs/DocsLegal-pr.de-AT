@@ -1,27 +1,23 @@
 ---
+# required metadata
 title: Datenschutz-Grundverordnung (DSGVO)
-description: DSGVO docs.microsoft.com.
+description: DSGVO learn.microsoft.com.
 ms.topic: article
 ms.prod: legal
 layout: ContentPage
-ms.openlocfilehash: 91a5f1a3c93dbf5e50ab9842e63747fc9e443fe3
-ms.sourcegitcommit: 608034089d1ea70317f64b4562eee1614c447d8f
-ms.translationtype: HT
-ms.contentlocale: de-AT
-ms.lasthandoff: 04/01/2022
-ms.locfileid: "141347343"
 ---
+
 # <a name="microsofts-gdpr-commitments-to-customers-of-our-generally-available-enterprise-software-products"></a>DSGVO-Zusagen von Microsoft an Kunden unserer allgemein verfügbaren Enterprise Software-Produkte
 
 **Einleitung**
 
 Die Datenschutz-Grundverordnung (DSGVO) der Europäischen Union setzt weltweit eine wichtige Messlatte für Datenschutzrechte, Informationssicherheit und Compliance. Wir bei Microsoft glauben, dass Datenschutz ein Grundrecht ist und dass die DSGVO ein wichtiger Schritt nach vorn beim Schutz und der Ermöglichung der Datenschutzrechte natürlicher Personen darstellt.     
 
-Microsoft hat sich zu ihrer eigenen Einhaltung der DSGVO verpflichtet, aber auch dazu, eine Reihe von Produkten, Features, Dokumentationen und Ressourcen anzubieten, um unsere Kunden dabei zu unterstützen, ihre Compliance-Verpflichtungen im Rahmen der DSGVO zu erfüllen. Im Folgenden finden Sie eine Beschreibung der vertraglichen Zusagen von Microsoft gegenüber ihren Kunden im Hinblick auf personenbezogene Daten, die von Unternehmenssoftware erfasst werden. (Für Software, die im Rahmen der kommerziellen Lizenzprogramme von Microsoft lizenziert wurde, verweisen wir direkt auf die Datenschutz-Zusatzerklärung für Microsoft Produkte und Dienste (DPA) unter http://aka.ms/dpa).
+Microsoft hat sich zu ihrer eigenen Einhaltung der DSGVO verpflichtet, aber auch dazu, eine Reihe von Produkten, Features, Dokumentationen und Ressourcen anzubieten, um unsere Kunden dabei zu unterstützen, ihre Compliance-Verpflichtungen im Rahmen der DSGVO zu erfüllen. Im Folgenden finden Sie eine Beschreibung der vertraglichen Zusagen von Microsoft gegenüber ihren Kunden im Hinblick auf personenbezogene Daten, die von Unternehmenssoftware erfasst werden. (Für Software, die im Rahmen der kommerziellen Lizenzprogramme von Microsoft lizenziert wurde, verweisen wir direkt auf die Datenschutz-Zusatzerklärung für Microsoft Produkte und Dienste (DPA) unter http://aka.ms/dpa)
 
 **Gibt Microsoft ihren Kunden gegenüber Zusagen im Hinblick auf die DSGVO ab?**
 
-Ja. Gemäß der DSGVO sind Verantwortliche (z. B. Unternehmen bzw. Organisationen und Entwickler, welche die Enterprise-Onlinedienste von Microsoft nutzen) verpflichtet, nur Auftragsverarbeiter (wie Microsoft) einzusetzen, die personenbezogene Daten im Namen des Verantwortlichen verarbeiten und hinreichende Garantien bieten, um Schlüsselanforderungen der DSGVO zu erfüllen. Microsoft gibt diese Zusagen im Nachtrag (DPA) gegenüber allen Kunden kommerzieller Lizenzprogramme von Microsoft ab. Auch Kunden anderer allgemein verfügbarer Enterprise Software, die von Microsoft oder unseren Affiliate-Partnern lizenziert wurde, kommen in den Genuss der in dieser Erklärung beschriebenen Vorteile der DSGVO-Zusagen von Microsoft, soweit von der Software personenbezogene Daten verarbeitet werden.
+Ja. Gemäß der DSGVO sind Verantwortliche (z. B. Unternehmen bzw. Organisationen und Entwickler, welche die Enterprise-Onlinedienste von Microsoft nutzen) verpflichtet, nur Auftragsverarbeiter (wie Microsoft) einzusetzen, die personenbezogene Daten im Namen des Verantwortlichen verarbeiten und hinreichende Garantien bieten, um Schlüsselanforderungen der DSGVO zu erfüllen. Microsoft bietet diese Verpflichtungen allen Kunden von kommerziellen Lizenzierungsprogrammen von Microsoft in der DPA an. Auch Kunden anderer allgemein verfügbarer Enterprise Software, die von Microsoft oder unseren Affiliate-Partnern lizenziert wurde, kommen in den Genuss der in dieser Erklärung beschriebenen Vorteile der DSGVO-Zusagen von Microsoft, soweit von der Software personenbezogene Daten verarbeitet werden.
 
 **Wo finde ich die vertraglichen Zusagen von Microsoft im Hinblick auf die DSGVO?**
 
